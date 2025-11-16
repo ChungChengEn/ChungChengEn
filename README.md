@@ -4,7 +4,7 @@
 ### I'm a Leetcoder 
 Here’s my LeetCode progress:
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ChungChengEn?ext=contest&theme=unicorn)
-![LeetCode Stats](https://leetcard.jacoblin.cool/ChungChengEn?ext=heatmap)
+<img src="https://leetcard.jacoblin.cool/ChungChengEn?ext=contest&theme=unicorn" width=400>
+<img src="https://leetcard.jacoblin.cool/ChungChengEn?ext=heatmap" width=400>
 
 ---
