@@ -11,3 +11,9 @@ Here’s my LeetCode progress:
 
 
 ---
+### I'm a project builder
+The following pinned directories contains projects built during my bachelor years.
+
+---
+### What I'm aiming now
+Keep Leetcoding, explore machine learning, and join Kaggle CV competitions.
